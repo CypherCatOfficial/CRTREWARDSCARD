@@ -1,0 +1,29 @@
+{
+  "$schema": "https://cashtokens.org/bcmr-v2.schema.json",
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  },
+  "latestRevision": "2024-01-31T08:52:48.932Z",
+  "registryIdentity": {
+    "name": "bcmr for CRT REWARDS CARD",
+    "description": "self-published bcmr for CRT REWARDS CARD"
+  },
+  "identities": {
+    "cc0b0c9d6ae383b199f104c5ad17a35de1aedb160ad8c4cc395dde89378f47a4": {
+      "2024-01-31T08:52:48.932Z": {
+        "name": "CRT REWARDS CARD",
+        "description": "Unbank Yourself with BitcoinCash",
+        "token": {
+          "category": "cc0b0c9d6ae383b199f104c5ad17a35de1aedb160ad8c4cc395dde89378f47a4",
+          "symbol": "CRTREWARDSCARD"
+        },
+        "uris": {
+          "icon": "https://raw.githubusercontent.com/CypherCatOfficial/CRTREWARDSCARD/main/crtrewardscard.gif",
+          "web": "https://cyphercash.uwu.ai/"
+        }
+      }
+    }
+  }
+}
