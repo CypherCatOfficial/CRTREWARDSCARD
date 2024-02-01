@@ -5,22 +5,22 @@
     "minor": 1,
     "patch": 0
   },
-  "latestRevision": "2024-01-31T08:52:48.932Z",
+  "latestRevision": "2024-02-01T22:11:51.786Z",
   "registryIdentity": {
-    "name": "bcmr for CRT REWARDS CARD",
-    "description": "self-published bcmr for CRT REWARDS CARD"
+    "name": "bcmr for CRT REPUBLIC PASS",
+    "description": "self-published bcmr for CRT REPUBLIC PASS"
   },
   "identities": {
-    "cc0b0c9d6ae383b199f104c5ad17a35de1aedb160ad8c4cc395dde89378f47a4": {
-      "2024-01-31T08:52:48.932Z": {
-        "name": "CRT REWARDS CARD",
-        "description": "Unbank Yourself with BitcoinCash",
+    "a34e5eb33c795f3afe58e363330e582167e7d6b24ad522e5e027c3826ede5223": {
+      "2024-02-01T22:11:51.786Z": {
+        "name": "CRT REPUBLIC PASS",
+        "description": "",
         "token": {
-          "category": "cc0b0c9d6ae383b199f104c5ad17a35de1aedb160ad8c4cc395dde89378f47a4",
-          "symbol": "CRTREWARDSCARD"
+          "category": "a34e5eb33c795f3afe58e363330e582167e7d6b24ad522e5e027c3826ede5223",
+          "symbol": "CRTREPUBLICPASS"
         },
         "uris": {
-          "icon": "https://raw.githubusercontent.com/CypherCatOfficial/CRTREWARDSCARD/main/crtrewardscard.gif",
+          "icon": "https://gist.github.com/CypherCatOfficial/c6efeb7a73c2ba09b0766863a7824b76?permalink_comment_id=4867075#gistcomment-4867075",
           "web": "https://cyphercash.uwu.ai/"
         }
       }
