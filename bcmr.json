@@ -7,17 +7,17 @@
   },
   "latestRevision": "2024-02-01T22:11:51.786Z",
   "registryIdentity": {
-    "name": "bcmr for CRT REPUBLIC PASS",
-    "description": "self-published bcmr for CRT REPUBLIC PASS"
+    "name": "bcmr for CRT MULTI PASS",
+    "description": "self-published bcmr for CRT MULTI PASS"
   },
   "identities": {
     "7a39985f834d73d9caadd1163f526822a03fed9ac81009455d3eb3f6b5eec495": {
       "2024-02-01T22:11:51.786Z": {
-        "name": "CRT REPUBLIC PASS",
+        "name": "CRT MULTI PASS",
         "description": "",
         "token": {
           "category": "7a39985f834d73d9caadd1163f526822a03fed9ac81009455d3eb3f6b5eec495",
-          "symbol": "CRTREPUBLICPASS"
+          "symbol": "CRTMULTIPASS"
         },
         "uris": {
           "icon": "https://gist.github.com/CypherCatOfficial/c6efeb7a73c2ba09b0766863a7824b76?permalink_comment_id=4867075#gistcomment-4867075",
